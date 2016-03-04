@@ -1,0 +1,4 @@
+-cpu=rx600
+-output="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lab_4_new.lib"
+-lang=c99
+-head=runtime,stdio,stdlib,string

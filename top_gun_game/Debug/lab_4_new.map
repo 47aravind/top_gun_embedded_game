@@ -1,0 +1,95 @@
+Optimizing Linkage Editor (V.10.02.00.000)        16-Oct-2015 16:20:06
+
+*** Options ***
+
+-subcommand=D:\WorkSpace\lab_4_new\lab_4_new\Debug\lab_4_new.hlk
+-noprelink
+-rom=D=R,D_1=R_1,D_2=R_2
+-nomessage
+-vect=_undefined_interrupt_source_isr
+-list="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lab_4_new.map"
+-nooptimize
+-start=SI,SU,B_1,R_1,B_2,R_2,B,R/00,C_1,C_2,C,C$*,L*,D*,P,W*/0FFF80000,FIXEDVECT/0FFFFFF90
+-nologo
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\bitmap_font.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\cmt_periodic_multi.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\dbsct.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\flash_led.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\flash_options.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\font_8x8.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\glyph.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\hwsetup.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lcd.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lowlvl.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lowsrc.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\r_glyph.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\r_glyph_register.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\r_rspi_rx600.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\r_switches.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\resetprg.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\S12ADC.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\sbrk.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\st7579_lcd.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\timer_adc.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\tutorial_main.obj"
+-input="D:\WorkSpace\lab_4_new\lab_4_new\Debug\vecttbl.obj"
+-library="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lab_4_new.lib"
+-output="D:\WorkSpace\lab_4_new\lab_4_new\Debug\lab_4_new.abs"
+-end
+
+*** Error information ***
+
+*** Mapping List ***
+
+SECTION                            START      END         SIZE   ALIGN
+
+SI
+                                  00000000  000003ff       400   4
+SU
+                                  00000400  000013ff      1000   4
+B_1
+                                  00001400  0000142a        2b   1
+R_1
+                                  0000142b  00001492        68   1
+B_2
+                                  00001494  00001494         0   2
+R_2
+                                  00001494  00001495         2   2
+B
+                                  00001498  000018f3       45c   4
+R
+                                  000018f4  0000238f       a9c   4
+$ADDR_C_FF7FFFE8
+                                  ff7fffe8  ff7fffff        18   1
+C_1
+                                  fff80000  fff8146d      146e   1
+C_2
+                                  fff8146e  fff8166f       202   2
+C
+                                  fff81670  fff81727        b8   4
+C$DSEC
+                                  fff81728  fff8174b        24   4
+C$BSEC
+                                  fff8174c  fff81763        18   4
+C$VECT
+                                  fff81764  fff81b63       400   4
+L
+                                  fff81b64  fff81c80       11d   4
+D
+                                  fff81c84  fff8271f       a9c   4
+D_2
+                                  fff82720  fff82721         2   2
+D_1
+                                  fff82722  fff82789        68   1
+P
+                                  fff8278a  fff865bf      3e36   1
+W_1
+                                  fff865c0  fff865c0         0   1
+W_2
+                                  fff865c0  fff86691        d2   2
+W
+                                  fff86694  fff86694         0   4
+$ADDR_C_FFFFFF80
+                                  ffffff80  ffffff8f        10   1
+FIXEDVECT
+                                  ffffff90  ffffffff        70   4

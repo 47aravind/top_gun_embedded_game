@@ -1,0 +1,46 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"lab_4_new" 
+[GENERAL_DATA]
+"ECXLABEL_LAST_FINDS_DATA" "" 
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\lcd.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\lcd.h" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\resetprg.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\vecttbl.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\config.h" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\drivers\st7579_lcd.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\fonts\bitmap_font.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\glyph.h" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\r_glyph.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_rspi_rx600\src\r_rspi_rx600.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\cmt_periodic_multi.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\cmt_periodic_multi.h" 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\flash_led.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\timer_adc.c" 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\timer_adc.h" 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\tutorial_main.c" 
+[WORKSPACE_FILE_STATES]
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\lcd.c" 100 100 933 274 0 7 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\lcd.h" 100 100 933 255 0 13 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\resetprg.c" 0 368 160 27 0 2 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_bsp\board\rdkrx63n\vecttbl.c" 75 75 933 255 0 12 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\config.h" 25 25 933 255 0 0 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\drivers\st7579_lcd.c" 50 50 933 255 0 11 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\fonts\bitmap_font.c" 0 0 933 255 0 8 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph\glyph.h" 50 50 933 255 0 1 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\r_glyph.c" 0 0 980 242 0 15 
+"D:\WorkSpace\lab_4_new\lab_4_new\r_rspi_rx600\src\r_rspi_rx600.c" 0 0 1096 433 0 10 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\cmt_periodic_multi.c" 25 25 933 274 0 6 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\cmt_periodic_multi.h" 100 100 933 274 0 5 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\flash_led.c" 100 100 933 255 0 3 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\timer_adc.c" 75 75 980 225 0 14 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\timer_adc.h" 25 25 933 274 0 9 
+"D:\WorkSpace\lab_4_new\lab_4_new\src\tutorial_main.c" -8 -30 1096 433 1 4 
+[LOADED_PROJECTS]
+"lab_4_new" 
+[END]

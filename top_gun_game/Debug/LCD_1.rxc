@@ -1,0 +1,16 @@
+-cpu=rx600
+-lang=c99
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_bsp"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_glyph"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_glyph\src\glyph"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_rspi_rx600"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_rspi_rx600\src"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_switches"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\r_switches\src"
+-include="D:\WorkSpace\lab_4_new\lab_4_new\src"
+-output=obj="D:\WorkSpace\lab_4_new\lab_4_new\Debug\LCD_1.obj"
+-debug
+-speed
+"D:\UNCC\Lab\Lab_4\LCD_1.c"
+-nologo
